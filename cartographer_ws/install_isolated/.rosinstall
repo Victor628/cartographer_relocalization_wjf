@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/s/cartographer_navigation-main/cartographer_location/cartographer_ws/install_isolated/setup.sh
